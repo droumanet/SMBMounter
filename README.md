@@ -3,9 +3,11 @@ This program scan shares on a SMB server and can mount checked ones
 
 # Interface
 The programme ask for a name server
+
 ![image](https://github.com/user-attachments/assets/21ca765e-ca88-48fb-9f49-bd91331314fa)
 
 Then it shows all shares: you can check them and ask it to mount them for you, in ~/SMBLinks
+
 ![image](https://github.com/user-attachments/assets/544e5b09-8e7e-4bb5-a098-944aeea6238e)
 
 # Usage
